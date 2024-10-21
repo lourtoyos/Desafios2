@@ -4,7 +4,7 @@ const apellido = "Toyos" //es una variable constante, aunque le de otro valor no
 
 let nombres = prompt ("Ingrese su nombre:")
 
-console.log(nombre,apellido)
+console.log(nombres,apellido)
 console.log("Hola " + nombres)
 alert("Hola " + nombres)
 
